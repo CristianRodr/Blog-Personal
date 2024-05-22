@@ -22,3 +22,52 @@ body {
     grid-template-rows: 1fr 1fr;
 }
 
+.social {
+    background-color: #e6162e;
+    width: 100%;
+    height: 50px;
+    display: grid;
+}
+
+.social-icons {
+    width: 250px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-self: end;
+    margin-right: 50px;
+}
+
+.social-icons a {
+    color: #fff;
+    font-size: 28px;
+}
+
+.social-icons a:hover {
+    color: #616161;
+}
+
+.nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 90px;
+}
+
+.nav-logo {
+    width: 220px;
+    margin-top: 10px;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+
+.nav-link a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid black;
+}
