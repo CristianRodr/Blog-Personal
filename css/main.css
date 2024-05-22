@@ -55,8 +55,9 @@ body {
 }
 
 .nav-logo {
-    width: 220px;
-    margin-top: 10px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
 }
 
 .nav-link {
