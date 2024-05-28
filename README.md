@@ -8,3 +8,4 @@
 ## CSS
 - Se utiliza un estilizado de letras para la pagina en general como color especifico "blanco, negro, rojo"
 - Posee estilo responsive para la adaptacion de pantalla para tablet y moviles.
+- Para el uso de bloques o columnas se ajustan con display grid.
